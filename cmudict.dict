@@ -20226,7 +20226,7 @@ chameleon K AH0 M IY1 L IY0 AH0 N
 chamlee CH AE1 M L IY0
 chamlong CH AE1 M L AO2 NG
 chamness CH AE1 M N IH0 S
-chamois SH AE1 M W AA1
+chamois SH AE1 M IY0
 chamomile K AE2 M AH0 M AY1 L
 chamomile(2) K AE2 M AH0 M IY1 L
 chamonix CH AE1 M AH0 N IH0 K S
@@ -71494,7 +71494,7 @@ local L OW1 K AH0 L
 local's L OW1 K AH0 L Z
 locale L OW0 K AE1 L
 locales L OW0 K AE1 L Z
-localhost L OW1 K AH0 L HH OW1 S T
+localhost L OW1 K AH0 L HH OW2 S T
 localities L OW0 K AE1 L IH0 T IY0 Z
 locality L OW0 K AE1 L AH0 T IY0
 localization L OW2 K AH0 L AH0 Z EY1 SH AH0 N
@@ -87316,7 +87316,7 @@ oppressor AH0 P R EH1 S ER0
 oppressors AH0 P R EH1 S ER0 Z
 opprobrium AH0 P R OW1 B R IY0 AH0 M
 oppugnant AH0 P AH1 G N AH0 N T
-oppugners AH0 P AH1 G N ER0 Z
+oppugners AH0 P Y UW1 N ER0 Z
 oprah OW1 P R AH0
 oprah's OW1 P R AH0 Z
 opry AA1 P R IY0
@@ -120639,7 +120639,7 @@ ternes T ER1 N Z
 terns T ER1 N Z
 terpening T ER1 P AH0 N IH0 NG
 terpsichorde T ER1 P S IH0 K AO2 R D
-terpsichore T ER1 P S IH1 K ER0 IY0
+terpsichore T ER0 P S IH1 K ER0 IY0
 terpstra T EH1 R P S T R AA2
 terra T EH1 R AA2
 terra's T EH1 R AH0 Z
